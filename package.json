@@ -1,0 +1,26 @@
+{
+  "name": "machi-learner-use",
+  "version": "1.0.0",
+  "description": "Utilize advanced learning capabilities for data analysis, prediction, and decision-making.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/101th-hour/machi-learner-use"
+  },
+  "author": "101th-hour",
+  "license": "MIT",
+  "dependencies": {
+    "machi-learner-use": "1.0.0",
+    "machi-learner-fullkit": "1.0.0",
+    "react-dom": "1.0.0",
+    "web3-react": "1.0.0",
+    "react-redux": "1.0.0",
+    "enzyme": "1.0.0",
+    "truffle": "1.0.0",
+    "request": "1.0.0",
+    "react": "1.0.0"
+  }
+}
